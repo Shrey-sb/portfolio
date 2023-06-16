@@ -1,0 +1,401 @@
+.Firstsection {
+  background-color: #1f2235;
+
+}
+
+.Secondsection {
+  background-color: white;
+  margin-bottom: 100px;
+
+}
+
+.Thirdsection {
+  background-color: white;
+  margin-bottom: 100px;
+
+}
+
+.Forthsection {
+  background-color: white;
+  margin-bottom: 100px;
+
+}
+
+.navbar a {
+  color: white ;
+}
+
+.aboutfirst {
+  color: white;
+}
+
+.namee {
+  color: orange;
+}
+
+.btnn {
+  border-radius: 50px;
+  color: white;
+  border: 2px;
+  border-style: solid;
+  background-color: #1f2235;
+  padding: 14px 0;
+  font-family: "Poppins SemiBold";
+  font-size: 15px;
+  width: 150px;
+  margin-right: 20px;
+  margin-top: 5px;
+  font-family: "Poppins";
+  border-color: orange;
+}
+
+.mypfp {
+  height: 82%;
+  width: 52%;
+  border-radius: 100%;
+  margin: 0 25%;
+}
+
+.navbar-brand {
+  margin-left: 10%;
+  margin-top: 3%;
+  font-size: 40px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar-nav {
+  margin-right: 20%;
+  margin-top: 3%;
+}
+
+.nav-item {
+  padding: 0 20px;
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.aboutfirst {
+padding-top: 7%;
+padding-bottom: 10%;
+margin: 0 10%;
+}
+
+.fab1 {
+  margin: 0 5px;
+  margin-bottom: 5px;
+}
+
+.helloclass {
+  font-size: 24px;
+  font-family: 'Poppins', sans-serif;
+  margin-top: 5px;
+}
+
+.aboutpara {
+  font-size: 19px;
+  font-family: 'Poppins', sans-serif;
+  margin-top: 5px;
+}
+
+.changingtext1 {
+  font-family: 'Poppins', sans-serif;
+  margin-top: 5px;
+}
+
+.bt2 {
+  background-color: orange;
+  color: black;
+}
+
+
+
+.temp {
+  color: white;
+  background-color: #fff;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  line-height: 40px;
+  border-radius: 100%;
+  margin: 10px 0;
+  margin-left: 10%;
+
+}
+
+.fa-facebook-f {
+  color: blue;
+}
+
+.fa-youtube {
+  color: red;
+}
+
+.fa-instagram {
+  color: pink;
+}
+
+.aboutme {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.headingofaboutme {
+  font-size: 32px;
+  color: black;
+  font-family: "Poppins";
+}
+
+.whyhireme {
+  letter-spacing: 3px;
+  margin: 8px 0 18px;
+  font-size: 12px;
+  color: grey;
+}
+
+.photoandcontent {
+  margin: 40px 20%;
+  box-shadow: 0 0 20px -2px #1f2235;
+  font-family: 'Roboto', sans-serif;
+}
+
+.imagelong {
+  height: 100%;
+  width: 100%;
+}
+
+.about-me-container {
+  font-size: 12px;
+  word-spacing: 4px;
+  padding-left: 10px;
+  padding-top: 20px;
+  padding-bottom: 100px;
+}
+.about-me-container-1 {
+  font-size: 12px;
+  word-spacing: 4px;
+  padding-left: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.buttonsboth {
+  margin-top: 50px;
+  padding-bottom: 30px;
+}
+
+.pointsofskill {
+  font-weight: bold;
+  font-size: 14px;
+
+}
+
+ul {
+  list-style: square;
+
+}
+
+hr {
+  text-align: center;
+  width: 10%;
+  margin: 1.35em auto;
+  color: #ff0d00;
+  border-width: 0 0 5px;
+  border-style: dashed;
+}
+.temmpate{
+    background-color: #1f2235;
+    margin: 30px 15%;
+    box-shadow: 0 0 20px -2px #1f2235;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 25px;
+
+}
+.photo12{
+  height: 30%;
+  width: 90%;
+  padding-right: 10px;
+}
+.formclass{
+  margin: 20px 10px;
+  background-color: white;
+  border-radius: 25px;
+  font-family: 'Poppins', sans-serif;
+
+}
+.form-control{
+  background-color: #CDCDCD;
+}
+.form-outline{
+  padding: 10px 20px;
+}
+
+.sendbutton{
+  padding-left: 20px;
+}
+.leftside{
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  padding: 10px 0 5px 40px;
+
+}
+.icoons{
+  padding: 15px 0;
+  padding-bottom: 50px;
+}
+.veryspecific{
+  letter-spacing: .3rem;
+    font-weight: 400;
+    color: #fff;
+    font-size: 18px;
+    opacity: .5;
+}
+.footersection{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+.bioo{
+  margin: 20px 20px;
+  font-family: 'Poppins', sans-serif;
+}
+.biotempate{
+  margin: 40px 20%;
+  box-shadow: 0 0 20px -2px #1f2235;
+  font-family: 'Roboto', sans-serif;
+}
+.biospan{
+  margin: 0 20px;
+}
+.bioline{
+  text-align: center;
+  width: 90%;
+  margin: 1.35em auto;
+  color: #ff0d00;
+  border-width: 0 0 5px;
+  border-style: dashed;
+
+}
+.headpoints{
+  color: red;
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+  padding: 10px 0;
+}
+.texxxt{
+  font-weight: bold;
+  font-size: 13px;
+}
+.bt3{
+  background-color: red;
+  margin-left: 700px;
+}
+.personalbuttons{
+  background-color: #ff5823;
+    padding: 4px 12px;
+    font-size: 14px;
+    border-radius: 14px;
+    color: white;
+}
+.eachbio{
+  padding: 10px 0;
+  margin-right: 60px;
+  margin-bottom: 10px;
+}
+.eachbio1{
+  padding: 10px 0;
+  margin-right: 60px;
+    margin-bottom: 10px;
+}
+.eachbio2{
+  padding: 10px 0;
+  margin-right: 60px;
+    margin-bottom: 10px;
+}
+.eachbio3{
+  padding: 10px 0;
+  margin-right: 60px;
+    margin-bottom: 10px;
+}
+.eachbio4{
+  padding: 10px 0;
+  margin-right: 60px;
+    margin-bottom: 10px;
+}
+h4{
+  font-weight: bold;
+  font-size: 15px;
+  font-family: 'Poppins', sans-serif;
+}
+@media (max-width: 1028px) {
+  .mypfp{
+    margin-top: 10%;
+  }
+  .about-me-container{
+    text-align: center;
+  }
+
+  .biokacontent{
+    text-align: center;
+  }
+  .Firstsection{
+    text-align: center;
+  }
+  .buttonsboth{
+    text-align:center;
+  }
+}
+.fab1:hover{
+  padding: 0 10px;
+  font-size: 2rem;
+}
+.mypfp:hover{
+  height: 85%;
+  width: 55%;
+}
+.temp:hover{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  padding: 3px;
+
+}
+.bt1:hover{
+  color: yellow;
+}
+.bt2:hover{
+  background-color: white;
+}
+.btnnn{
+  border-radius: 50px;
+  border: 2px solid;
+  padding: 14px 0;
+  font-family: "Poppins SemiBold";
+  font-size: 15px;
+  width: 150px;
+  margin-right: 20px;
+  margin-top: 5px;
+  font-family: "Poppins";
+  border-color: orange;
+}
+.bt11{
+  background-color: white;
+  color: orange;
+}
+.bt22{
+  background-color: orange;
+  color: white;
+}
+.bt11:hover{
+  background-color: orange;
+  color: white;
+}
+.bt22:hover{
+  background-color: white;
+  color: orange;
+}
+.points{
+  color: #FF4500;
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bolder;
+}
